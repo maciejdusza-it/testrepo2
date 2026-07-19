@@ -1,0 +1,2 @@
+Child branch file
+line 2 - child
