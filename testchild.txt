@@ -2,5 +2,5 @@ Child branch file
 line 2 - AAAAAAAAAAAAAAAAA
 xxxxxxxxxx
 zzzzzzzzzzzzzzzzz
-
+wwwwwwwwwwwwwwwwwww
 yyyyyyyyyyy
