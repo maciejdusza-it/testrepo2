@@ -1,2 +1,6 @@
 Child branch file
-line 2 - child
+line 2 - AAAAAAAAAAAAAAAAA
+xxxxxxxxxx
+
+
+yyyyyyyyyyy
